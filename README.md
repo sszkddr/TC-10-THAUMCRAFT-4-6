@@ -1,14 +1,13 @@
-# TC10 — Thaumcraft 4 + 6 · The Final Fusion
+# Thaumic Extension
 
 ---
 
-## What is this?
+## What is this
 
-**This is not TC7. This is not a TC4 remake. This is not a TC6 sequel.**
+Thaumic Extension is an independent community-driven reimagining of Thaumcraft.
+Not affiliated with Azanor, CoFH, or Mojang.
 
-This is the **final fusion** of TC4's research system and TC6's aura system — rebuilt on NeoForge, powered by the community, and dedicated to the legacy of Azanor.
-
-> *“TC4's research table. TC6's aura. Azanor's legacy.”*
+I respect the original work of Azanor and Team CoFH. No source code from Thaumcraft 4, Thaumcraft 6, or any official Thaumcraft release has been used, copied, or reverse-engineered in the creation of this mod. All code is original and written solely by me, based on design inspiration and gameplay concepts from the classic Thaumcraft series.
 
 ---
 
@@ -57,7 +56,7 @@ This is the **final fusion** of TC4's research system and TC6's aura system — 
 
 ##  Feature Voting
 
-TC10 uses a **queue-based voting system**, not a knockout system.
+Thaumic Extension uses a **queue-based voting system**, not a knockout system.
 
 1. New features are proposed via issues
 2. Community votes (3 votes per person)
@@ -88,10 +87,6 @@ Without him, there would be no:
 **Current texture status:** `no texture` (white square, red text, zero shame)
 
 If you can draw, model, or design GUIs — **please reach out**. You'll be credited forever and ever.
-
----
-
-# MAKE THAUMCRAFT GREAT AGAIN. 
 
 ---
 
